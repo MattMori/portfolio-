@@ -55,7 +55,6 @@ a {
     font-size: 16px;
     font-family: Poppins;
     padding: 10px 25px 10px 25px;
-
 }
 
 p.gray {
@@ -172,7 +171,7 @@ h1.black {
     font-weight: 600;
     line-height: 24px;
     border: 0;
-    padding: 15px 30px 15px 30px
+    padding: 15px 30px 15px 30px;
 }
 
 #portifolioTitle{
@@ -190,4 +189,14 @@ h1.black {
 
 .imgPortifolio{
     padding: 15px;
+}
+
+button:hover{
+    background-color: #1F7CFF;
+    color: white;
+    transform: translateY(-7px);
+    transition-duration: 0,1ms;
+    box-shadow: 0px 15px 20px #1F7CFF;
+    cursor: pointer;
+    
 }
