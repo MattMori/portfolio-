@@ -1,6 +1,7 @@
 body {
     margin-left: 15%;
     margin-right: 15%;
+    
 }
 
 .container {
@@ -174,29 +175,70 @@ h1.black {
     padding: 15px 30px 15px 30px;
 }
 
-#portifolioTitle{
+#portifolioTitle {
     margin-top: 150px;
 
 }
 
-.imgPortifolio img{
+.imgPortifolio img {
     width: 100%;
     border-radius: 30px;
-    border: solid #97c0fa;
-    ;
+    color: #1F7CFF;
+    border: solid currentColor;
 
 }
 
-.imgPortifolio{
+.imgPortifolio {
     padding: 15px;
 }
 
-button:hover{
+button:hover {
     background-color: #1F7CFF;
     color: white;
     transform: translateY(-7px);
-    transition-duration: 0,1ms;
+    transition-duration: 0, 1ms;
     box-shadow: 0px 15px 20px #1F7CFF;
     cursor: pointer;
+
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    body{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        text-align: center;   
+    }
+
+    #headerCta h1{
+        font-size: 36px;
+    }
     
+    #headerCta p{
+        font-size: 20px;
+    }
+
+    #headerImg{
+      padding-top: 10%;
+      margin: 0px;
+    }
+
+    #contact{
+        padding-top: 0px;
+    }
+
+    #contactForm{
+        margin: 0px;
+    }
+
+    #portifolioTitle{
+        margin-top: 10%;
+    }
 }
