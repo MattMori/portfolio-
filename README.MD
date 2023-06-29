@@ -20,9 +20,10 @@ Tecnologias
 Estou animado em continuar aprofundando meu conhecimento nessas áreas e explorar outras tecnologias à medida que avanço na minha jornada como desenvolvedor(a) front-end.
 Contato
 
-Se você tiver alguma pergunta, sugestão ou oportunidade de colaboração, fique à vontade para entrar em contato comigo. Estou disponível por meio dos seguintes canais:
+Se você tiver alguma pergunta, sugestão ou oportunidade de colaboração, fique à vontade para entrar em contato comigo.
 
     LinkedIn: https://www.linkedin.com/in/morimkv/
+    Netlify: https://portifolio-mateus-mori.netlify.app/
 
 Agradeço sua visita ao meu portfólio e espero que você encontre exemplos inspiradores e veja meu progresso como desenvolvedor front-end/back-end.
 
