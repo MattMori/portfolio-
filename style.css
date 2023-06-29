@@ -202,12 +202,16 @@ button:hover {
 
 }
 
-
+/* Estilização de Media Querie*/
 @media only screen and (max-width: 600px) {
 
     body{
         margin-left: 5%;
         margin-right: 5%;
+    }
+
+    #menu ul {
+        text-align: center;
     }
 
 
